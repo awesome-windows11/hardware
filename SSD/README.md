@@ -2,4 +2,4 @@
 
 
 ## Portable (external) SSD
-[SanDisk](https://reddit.com/r/DataHoarder/comments/15tix81/advice_on_best_ssd/) has firmware issues
+[SanDisk](https://reddit.com/r/DataHoarder/comments/15tix81/advice_on_best_ssd/) [has](https://new.reddit.com/r/DataHoarder/comments/15lkah3/we_just_lost_3tb_of_data_on_a_sandisk_extreme_ssd/) firmware issues
