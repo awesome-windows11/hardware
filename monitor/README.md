@@ -28,19 +28,19 @@ When it comes to monitors, the most popular sizes are typically 24, 27, or 32 in
 
 Ultrawide monitors are becoming increasingly popular and are widely available in the market. They are generally categorized as having a 21:9 aspect ratio. A 34-inch ultrawide monitor is as tall as a 27-inch screen but seven inches wider, offering a 25-percent larger display overall. This makes it an ideal choice for people who want more display space, but do not want to deal with the complexity of a multi-monitor setup. 
 
-### Resolution
+## Resolution
 Most budget monitors have a native resolution of 1080p (1920×1080). This is suitable for 24-inch monitors. However, on larger displays, the lack of sharpness becomes quite noticeable. For 27-inch and 32-inch models, a resolution of 1440p (2560×1440) is preferable. For gaming purposes, this resolution is nearly essential, but it is worth noting that the PS4 and PS5 do not support it. PC gamers will benefit from the crisper details offered by this resolution.
 
 For larger monitors, 4K (3840×2160) resolution is ideal. While the added sharpness is not a must-have, it is particularly useful if you work on minute details or large amounts of information all at once, requiring you to zoom out. 4K resolution will bring out the finest details in movies and games, making them look incredibly sharp.
 
 Price is a crucial factor when choosing a monitor. Lower resolutions mean lower prices, but the price gap has narrowed in recent years with 4K monitors becoming increasingly more affordable.
 
-### Refresh Rate (Hz)
+## Refresh Rate (Hz)
 A monitor’s refresh rate refers to the frequency at which it can update the displayed image every second. While many monitors come with a 60Hz refresh rate, 144Hz is quickly becoming the new standard. Some models offer higher refresh rates, like 240Hz or 360Hz, with premium 500Hz options also available. Higher refresh rates offer a smoother visual experience, especially when the displayed images are in motion. They also reduce input lag by displaying new images more frequently. As the refresh rates go higher, the benefits become more noticeable. 
 
 For those who primarily use their monitors for productivity, a 60Hz refresh rate is sufficient. However, if you are into fast-paced movies, graphics, or games, you will find the upgrade to 144Hz to be quite noticeable. Higher refresh rates offer a luxury for premium entertainment options and can provide a competitive advantage for serious gamers, but they are not exactly a must-have.
 
-### Adaptive Sync
+## Adaptive Sync
 Adaptive Sync is a feature that enables a PC’s video output to synchronize with the refresh rate of a display. This ensures smooth frame pacing, preventing hitches, hesitations, and tearing, provided that the PC’s hardware is up to the task. This feature is a must-have for PC gamers, but it is also present in many budget monitors. 
 
 There are two common standards for Adaptive Sync based on video card manufacturers: AMD FreeSync and Nvidia G-Sync. These are designed to work with their respective video cards, so it’s important to pay attention to the monitor’s supported standards. Additionally, there’s a third-party standard called VESA AdaptiveSync, which is supported by AMD, Intel, and Nvidia in their latest graphics solutions. However, the functionality may be more limited than using the company’s in-house standard. Adaptive Sync is commonly associated with gaming, but has no real price premium attached to it, and is a feature that will improve your experience.
