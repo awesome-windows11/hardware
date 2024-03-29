@@ -8,3 +8,5 @@
 
 ## Types of Matrix
 **IPS** is the most commonly used and preferred type of computer monitor, providing a bright color display and sharp details. The color-matching performance has a broad scope, ranging from just average to completely amazing. IPS computers can also support the best features for gaming, including fast pixel responses and high refresh rates.
+
+The downfall of most IPS monitors is a lack of contrast and a truly rich black, which can make images with a lot of shadows appear murky. This is accentuated when viewing in a dark environment, such as a gaming den or home theater room.
