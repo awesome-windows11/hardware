@@ -7,7 +7,7 @@
 - Additional features: Look for USB-C for bonus functionality.
 
 ## Types of Matrix
-**IPS** is the most commonly used and preferred type of computer monitor, providing a bright color display and sharp details. The color-matching performance has a broad scope, ranging from just average to completely amazing. IPS computers can also support the best features for gaming, including fast pixel responses and high refresh rates.
+**IPS** is the [most commonly](https://www.adorama.com/alc/how-to-choose-a-computer-monitor/) used and preferred type of computer monitor, providing a bright color display and sharp details. The color-matching performance has a broad scope, ranging from just average to completely amazing. IPS computers can also support the best features for gaming, including fast pixel responses and high refresh rates.
 
 The downfall of most IPS monitors is a lack of contrast and a truly rich black, which can make images with a lot of shadows appear murky. This is accentuated when viewing in a dark environment, such as a gaming den or home theater room.
 
@@ -22,3 +22,8 @@ However, TN displays do have limitations in contrast, view angle, and color perf
 However, OLED panels aren’t as bright as the competition at the top end. Over time, OLED displays may suffer permanent image retention (also called ghosting), although this takes many thousands of hours. Furthermore, the technology is very expensive in PC monitors.
 
 IPS is the most popular display technology and can provide an excellent viewing experience when paired with the right combination of other specifications. For most people, IPS is the way to go, but a monitor with a VA panel might be a better choice if you do not view it from an angle and want improved image quality while watching movies and TV shows.
+
+## Monitor Size
+When it comes to monitors, the most popular sizes are typically 24, 27, or 32 inches. While some may think that bigger is always better, it is important to consider how the size of a display fits within your field of view. This means that you should be able to see all parts of the screen without having to strain your eyes or move your head around too much.
+
+Ultrawide monitors are becoming increasingly popular and are widely available in the market. They are generally categorized as having a 21:9 aspect ratio. A 34-inch ultrawide monitor is as tall as a 27-inch screen but seven inches wider, offering a 25-percent larger display overall. This makes it an ideal choice for people who want more display space, but do not want to deal with the complexity of a multi-monitor setup. 
