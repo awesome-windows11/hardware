@@ -1,1 +1,7 @@
-
+- Matrix type: IPS is the market leader, VA is best for high contrast. OLED is a premium option but expensive.
+- Size: Very dependent on personal preference and setup.
+- Resolution: 1440p is recommended, 4K is an affordable upgrade.
+- Refresh rate: 144Hz is becoming the standard, go higher for action-packed entertainment.
+- Adaptive sync: A must-have feature for gamers.
+- Stand: Look for height and tilt adjustment, plus VESA mount support.
+- Additional features: Look for USB-C for bonus functionality.
