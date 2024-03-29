@@ -20,3 +20,5 @@ However, TN displays do have limitations in contrast, view angle, and color perf
 **OLED** uses organic pixel elements that emit their own light. OLED technology is known for its excellent contrast and black levels as the OLED pixels that are turned off emit no light at all. These displays surpass other panel types in color performance and have best-in-class motion clarity. Additionally, viewing angles are superb.
 
 However, OLED panels aren’t as bright as the competition at the top end. Over time, OLED displays may suffer permanent image retention (also called ghosting), although this takes many thousands of hours. Furthermore, the technology is very expensive in PC monitors.
+
+IPS is the most popular display technology and can provide an excellent viewing experience when paired with the right combination of other specifications. For most people, IPS is the way to go, but a monitor with a VA panel might be a better choice if you do not view it from an angle and want improved image quality while watching movies and TV shows.
