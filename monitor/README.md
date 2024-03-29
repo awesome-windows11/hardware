@@ -16,3 +16,7 @@ Increasing in popularity recently, **VA** monitors have become an option due to 
 **TN** displays consist of a panel of liquid crystals that are sandwiched between two polarizing filters. When an electrical current is applied, the crystals twist and allow light to pass through. TN panels are generally the least expensive option available in the market. They have very fast pixel response times, which improves motion clarity.
 
 However, TN displays do have limitations in contrast, view angle, and color performance that make them less suitable for everyday use. TN monitors are best suited for dedicated gaming setups. BenQ’s Zowie line is a good example of an affordable screen that can help improve gaming performance.
+
+**OLED** uses organic pixel elements that emit their own light. OLED technology is known for its excellent contrast and black levels as the OLED pixels that are turned off emit no light at all. These displays surpass other panel types in color performance and have best-in-class motion clarity. Additionally, viewing angles are superb.
+
+However, OLED panels aren’t as bright as the competition at the top end. Over time, OLED displays may suffer permanent image retention (also called ghosting), although this takes many thousands of hours. Furthermore, the technology is very expensive in PC monitors.
