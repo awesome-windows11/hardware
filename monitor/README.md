@@ -70,3 +70,6 @@ For those who primarily use their monitors for productivity, a 60Hz refresh rate
 Adaptive Sync is a feature that enables a PC’s video output to synchronize with the refresh rate of a display. This ensures smooth frame pacing, preventing hitches, hesitations, and tearing, provided that the PC’s hardware is up to the task. This feature is a must-have for PC gamers, but it is also present in many budget monitors. 
 
 There are two common standards for Adaptive Sync based on video card manufacturers: AMD FreeSync and Nvidia G-Sync. These are designed to work with their respective video cards, so it’s important to pay attention to the monitor’s supported standards. Additionally, there’s a third-party standard called VESA AdaptiveSync, which is supported by AMD, Intel, and Nvidia in their latest graphics solutions. However, the functionality may be more limited than using the company’s in-house standard. Adaptive Sync is commonly associated with gaming, but has no real price premium attached to it, and is a feature that will improve your experience.
+
+## Flicker-Free
+Today, virtually all monitors are equipped with some form of vision protection system. Flicker-Free and Flicker Safe indicate the absence of eye-damaging PWM (Pulse Width Modulation). Low Blue Light technology reduces the emission of blue light, which also reduces eye strain.  
