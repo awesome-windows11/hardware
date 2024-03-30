@@ -35,6 +35,12 @@ For larger monitors, 4K (3840×2160) resolution is ideal. While the added sharpn
 
 Price is a crucial factor when choosing a monitor. Lower resolutions mean lower prices, but the price gap has narrowed in recent years with 4K monitors becoming increasingly more affordable.
 
+Most modern monitors have an aspect ratio of **16:9 or 21:9**. The first option is the most universal and is suitable for any task, whether it is work, study, searching the Internet, watching videos or gaming. 
+
+Devices with a **21:9** ratio are preferred by specialists in video editing and programming, as well as fans of modern games and movies. Ultra-wide monitors allow you to comfortably work with several applications at the same time and enhance the effect of immersion during the gaming process.
+
+Less common are displays with an aspect ratio of **32:9**. They are designed to replace the configuration of two 16:9 monitors with a single workspace. Thus, the user can get rid not only of frames, but also of unnecessary wires. 
+
 ## Refresh Rate (Hz)
 A monitor’s refresh rate refers to the frequency at which it can update the displayed image every second. While many monitors come with a 60Hz refresh rate, 144Hz is quickly becoming the new standard. Some models offer higher refresh rates, like 240Hz or 360Hz, with premium 500Hz options also available. Higher refresh rates offer a smoother visual experience, especially when the displayed images are in motion. They also reduce input lag by displaying new images more frequently. As the refresh rates go higher, the benefits become more noticeable. 
 
