@@ -29,6 +29,7 @@ When it comes to monitors, the most popular sizes are typically 24, 27, or 32 in
 Ultrawide monitors are becoming increasingly popular and are widely available in the market. They are generally categorized as having a 21:9 aspect ratio. A 34-inch ultrawide monitor is as tall as a 27-inch screen but seven inches wider, offering a 25-percent larger display overall. This makes it an ideal choice for people who want more display space, but do not want to deal with the complexity of a multi-monitor setup. 
 
 ## Resolution (Aspect ratio)
+### 16:9
 - 640 x 360 (nHD)
 - 854 x 480 (FWVGA)
 - 960 x 540 (qHD)
@@ -36,12 +37,12 @@ Ultrawide monitors are becoming increasingly popular and are widely available in
 - 1280 x 720 (HD/WXGA)
 - 1366 x 768 (FWXGA)
 - 1600 x 900 (HD+)
-- 1920 x 1080 (FHD)
+- 1920 x 1080 (FHD, Full HD)
 - 2048 x 1152 (QWXGA)
-- 2560 x 1440 (QHD)
+- 2560 x 1440 (QHD,  1440p, 2K)
 - 3200 x 1800 (WQXGA+)
-- 3840 x 2160 (UHD)
-- 5120 x 2880 (UHD+)
+- 3840 x 2160 (UHD, 4K)
+- 5120 x 2880 (UHD+, 5K)
 - 7680 x 4320 (FUHD)
 - 15360 x 8640 (QUHD)
 - 30720 x 17280 (HHD)
