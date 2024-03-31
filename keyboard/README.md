@@ -1,4 +1,4 @@
-## Mechanical switches
+## Mechanical keyboard switches types
 ![image](https://github.com/awesome-windows11/hardware/assets/87380272/c8171499-70a1-4a5d-88d7-a7df127e0822)
 
 ### Cherry MX Red (linear)
